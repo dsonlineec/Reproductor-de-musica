@@ -1,6 +1,8 @@
 # Reproductor-de-musica
 CONTENIDO: 
 
-.APK - Appinventor / practica
+.apk - Appinventor / practica
 
-.AIA - EXAMEN ANDROID I
+.aia - EXAMEN ANDROID I
+
+.apk - EXAMEN ANDROID I
